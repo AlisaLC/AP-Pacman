@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: gdx-sqlite">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/core/libs/gdx-sqlite.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

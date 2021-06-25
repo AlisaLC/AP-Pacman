@@ -1,0 +1,146 @@
+
+ghosts.png
+size: 150,184
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RED-RIGHT
+  rotate: false
+  xy: 0, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+RED-UP
+  rotate: false
+  xy: 38, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+BLUE-RIGHT
+  rotate: false
+  xy: 80, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+BLUE-UP
+  rotate: false
+  xy: 118, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+RED-DOWN
+  rotate: false
+  xy: 0, 38
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+RED-LEFT
+  rotate: false
+  xy: 38, 38
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+BLUE-DOWN
+  rotate: false
+  xy: 80, 38
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+BLUE-LEFT
+  rotate: false
+  xy: 118, 38
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+PINK-RIGHT
+  rotate: false
+  xy: 0, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+PINK-UP
+  rotate: false
+  xy: 38, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ORANGE-RIGHT
+  rotate: false
+  xy: 80, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ORANGE-UP
+  rotate: false
+  xy: 118, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+PINK-DOWN
+  rotate: false
+  xy: 0, 114
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+PINK-LEFT
+  rotate: false
+  xy: 38, 114
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ORANGE-DOWN
+  rotate: false
+  xy: 80, 114
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ORANGE-LEFT
+  rotate: false
+  xy: 118, 114
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+FRIGHT-RIGHT
+  rotate: false
+  xy: 0, 152
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+FRIGHT-UP
+  rotate: false
+  xy: 38, 152
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+FRIGHT-DOWN
+  rotate: false
+  xy: 80, 152
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+FRIGHT-LEFT
+  rotate: false
+  xy: 118, 152
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
